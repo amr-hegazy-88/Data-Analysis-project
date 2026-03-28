@@ -3,7 +3,7 @@
 This project provides a data-driven exploration into the mental health crisis among students. By analyzing a dataset of over 140,000 records, this Power BI dashboard identifies the core socio-economic and academic factors that contribute to depression and stress, offering a clear roadmap for targeted mental health interventions.
 # Dataset used
 - <a href = "https://github.com/amr-hegazy-88/Data-Analysis-project/blob/main/Amr%20hegazy.csv">Dataset</a>
-#🎯 Project Objectives
+# 🎯 Project Objectives
 Correlation Mapping: Quantify the relationship between academic pressure and depression status.
 Lifestyle Impact: Evaluate how sleep duration and dietary habits influence overall stress levels.
 Risk Assessment: Develop a Mental Health Risk Score to identify high-risk student profiles.
